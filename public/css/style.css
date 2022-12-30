@@ -1,0 +1,11 @@
+ul {
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+}
+li {
+  color: red;
+}
+h1 {
+  color: red;
+}
